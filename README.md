@@ -46,4 +46,4 @@ EcoSort is an innovative app designed to help users identify and manage non-orga
 | :----------------: | :----------------------------------------------------------------: |
 | Mobile Development| [Github](https://github.com) |
 | Machine Learning | [Github](https://github.com) |
-| Cloud Computing | [Github]([https://github.com](https://github.com/chrollo3/Cloud-Computing-Capstone)) |
+| Cloud Computing | [Github]([https://github.com](https://github.com/chrollo3/Cloud-Computing-Capstone) |
