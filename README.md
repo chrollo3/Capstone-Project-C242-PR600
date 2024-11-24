@@ -1,5 +1,5 @@
 # EcoSort - Bangkit Capstone Project 2024 ✨
-![Desktop - 1]( https :)
+
 
 ## EcoSort: Sorting Smarter, Recycling Better! 🗑️ <br>
 EcoSort is an innovative app designed to help users identify and manage non-organic waste effectively using advanced image recognition technology. The app allows users to scan and detect the type of waste, providing accurate categorization and detailed recycling methods. Additionally, EcoSort is equipped with an AI-powered chat feature to answer questions related to waste management and recycling. Users can also access a variety of informative articles on sustainable living and waste reduction, empowering them to contribute to a cleaner, greener environment.
