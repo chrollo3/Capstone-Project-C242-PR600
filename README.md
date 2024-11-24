@@ -28,8 +28,9 @@ EcoSort is an innovative app designed to help users identify and manage non-orga
   * Colab / Google Colaboratory
   
 - *Cloud Computing* : 
-  * Node.js
-  * Compute Engine
+  * JavasSript
+  * Cloud Run
+  * Artifact Registry
   * App Engine
   * Cloud Storage
   * Firestore
