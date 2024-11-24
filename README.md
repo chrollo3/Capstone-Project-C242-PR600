@@ -6,7 +6,7 @@ EcoSort is an innovative app designed to help users identify and manage non-orga
 
 
 
-## [Download App Here (.apk file)](https:)📲
+## [Download App Here (.apk file)]📲
 
 # Team 🤝 :
 |          Nama         | Bangkit-ID |       Path       |
