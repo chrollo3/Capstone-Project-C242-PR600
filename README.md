@@ -2,7 +2,7 @@
 
 
 ## EcoSort: Sorting Smarter, Recycling Better! 🗑️ <br>
-EcoSort is an innovative app designed to help users identify and manage non-organic waste effectively using advanced image recognition technology. The app allows users to scan and detect the type of waste, providing accurate categorization and detailed recycling methods. Additionally, EcoSort is equipped with an AI-powered chat feature to answer questions related to waste management and recycling. Users can also access a variety of informative articles on sustainable living and waste reduction, empowering them to contribute to a cleaner, greener environment.
+Effortlessly sort waste with our innovative app! Detect whether waste is organic or non-organic using advanced recognition technology, helping you make eco-friendly disposal choices. Start building a cleaner, greener world today! 🌍♻️
 
 
 
