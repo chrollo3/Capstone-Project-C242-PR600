@@ -38,5 +38,5 @@ Acces the website EcoSort here
 # Repositories 📁
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
-| Machine Learning | [Github]  |
+| Machine Learning | [Github](https://github.com/chrollo3/Machine-Learning-Capstone) |
 | Cloud Computing | [Github](https://github.com/chrollo3/Cloud-Computing-Capstone) |
