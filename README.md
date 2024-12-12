@@ -34,16 +34,9 @@ Acces the website EcoSort here
   * Cloud Storage
   * Firestore
 
-- *Mobile Development* :
-  * Kotlin
-  * Android XML
-  * Retrofit
-  * Androidlocalizationer
-  * Figma
 
 # Repositories 📁
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
-| Mobile Development| [Github] |
 | Machine Learning | [Github]  |
 | Cloud Computing | [Github](https://github.com/chrollo3/Cloud-Computing-Capstone) |
