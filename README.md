@@ -6,7 +6,7 @@ Effortlessly sort waste with our innovative app! Detect whether waste is organic
 
 
 
-## [Download App Here (.apk file)]📲
+## [EcoSort](https://project-capstone-c242-pr600.et.r.appspot.com)
 
 # Team 🤝 :
 |          Nama         | Bangkit-ID |       Path       |
@@ -16,7 +16,6 @@ Effortlessly sort waste with our innovative app! Detect whether waste is organic
 | Alfaris Virabwana | C004B4KY0353 | Cloud Computing |
 | Salaisha Ghina Febrizka | M319B4KX4016 | Machine Learning |
 | Vina Nasyi Atul Lailiyah | M327B4KX4420 | Machine Learning |
-| Zidane Alfarizi | A116B4KY4620 | Mobile Development |
 
 # Technologies used 🔧 
 
