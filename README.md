@@ -5,7 +5,7 @@
 Effortlessly sort waste with our innovative app! Detect whether waste is organic or non-organic using advanced recognition technology, helping you make eco-friendly disposal choices. Start building a cleaner, greener world today! 🌍♻️
 
 
-
+Acces the website EcoSort here 
 ## [EcoSort](https://project-capstone-c242-pr600.et.r.appspot.com)
 
 # Team 🤝 :
